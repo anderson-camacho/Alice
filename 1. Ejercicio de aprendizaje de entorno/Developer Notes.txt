@@ -1,0 +1,20 @@
+Notas del Desarrollador.
+
+Software: Alice 3.5
+Fecha: 25 de abril del 2021.
+Versión 2.1
+
+Descripción:
+Este ejercicio se desarrolla con fines académicos, mostrando la funcionalidad de funciones, procedimientos y creación de variables especificas en el software de Alice.
+Realiza operaciones matemáticas simples con el fin de poder dar un resultado.
+
+________________________________________________________________________
+Developer Notes.
+
+Software: Alice 3.5
+Fecha: 25 de abril del 2021.
+Versión 2.1
+
+Description:
+This exercise is developed for academic purposes, showing the functionality of functions, procedures and creation of specific variables in Alice's software.
+It performs simple mathematical operations in order to be able to give a result.
